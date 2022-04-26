@@ -1,0 +1,19 @@
+{
+  "name": "refactoring",
+  "version": "1.0.0",
+  "description": "Refactoring project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraiMontesV/refactoring.git"
+  },
+  "author": "Sarai Montes de Oca Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaraiMontesV/refactoring/issues"
+  },
+  "homepage": "https://github.com/SaraiMontesV/refactoring#readme"
+}
