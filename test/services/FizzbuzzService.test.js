@@ -17,7 +17,7 @@ describe("Unit Test for FizzbuzzService", () => {
         ]
       };
     const explorersWithFizz = FizzbuzzService.applyValidationInExplorer(explorer);
-    expect(explorersWithFizz.trick).toBe('FIZZqqq');
+    expect(explorersWithFizz.trick).toBe('FIZZ');
   });
 
   test("1) Validate BUZZ", () => {
