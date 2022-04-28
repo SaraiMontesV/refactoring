@@ -57,4 +57,4 @@ describe("Unit Test for ExplorerController", () => {
         expect(usernames.length).toBeGreaterThanOrEqual(0);
     });
 
-})
+});
