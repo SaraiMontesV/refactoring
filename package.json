@@ -7,7 +7,8 @@
     "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js",
     "start": "node index.js",
     "linter": "node --experimental-vm-modules ./node_modules/eslint/bin/eslint.js .",
-    "linter-fix": "node --experimental-vm-modules ./node_modules/eslint/bin/eslint.js . --fix"
+    "linter-fix": "node --experimental-vm-modules ./node_modules/eslint/bin/eslint.js . --fix",
+    "server": "node ./lib/server.js"
   },
   "repository": {
     "type": "git",
