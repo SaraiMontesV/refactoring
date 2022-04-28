@@ -4,7 +4,8 @@
   "description": "Refactoring project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
